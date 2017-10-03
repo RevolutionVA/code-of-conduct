@@ -6,7 +6,7 @@
 
 <h2>Need Help?</h2>
 
-<p>This conference is co-organized by <a href="https://twitter.com/taylorka">Ken</a>, <a href="https://twitter.com/tealmage">Adam</a>, <a href="https://twitter.com/alexproaps">Alex</a>, <a href="https://twitter.com/lynnaloo">Linda</a>, <a href="https://twitter.com/1kevgriff">Kevin</a>, and <a href="https://twitter.com/erikpmp">Erik</a>. You should have our contact details in the emails we’ve sent prior to the event or you can email all organizers at <a href="mailto:team@hrdevfest.org">team@hrdevfest.org</a>.</p>
+<p>This conference is co-organized by <a href="https://twitter.com/taylorka">Ken</a>, <a href="https://twitter.com/tealmage">Adam</a>, <a href="https://twitter.com/alexproaps">Alex</a>, <a href="https://twitter.com/keithprivette">Keith</a>, <a href="https://twitter.com/lynnaloo">Linda</a>, <a href="https://twitter.com/1kevgriff">Kevin</a>, and <a href="https://twitter.com/erikpmp">Erik</a>. You should have our contact details in the emails we’ve sent prior to the event or you can email all organizers at <a href="mailto:team@hrdevfest.org">team@hrdevfest.org</a>.</p>
 
 <h2>The Quick Version</h2>
 
