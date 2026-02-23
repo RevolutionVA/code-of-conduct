@@ -6,7 +6,7 @@
 
 <h2>Need Help?</h2>
 
-<p>If you need to report an incident or have any concerns, please contact the organizing team at <a href="mailto:team@hrdevfest.org">team@hrdevfest.org</a>. You can also speak directly with any staff member during the event.</p>
+<p>If you need to report an incident or have any concerns, please contact the organizing team at <a href="mailto:team@revolutionva.org">team@revolutionva.org</a>. You can also speak directly with any staff member during the event.</p>
 
 <h2>The Quick Version</h2>
 
@@ -35,7 +35,7 @@
 
 <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the staff immediately. Hampton Roads DevFest staff can be identified by their designated staff t-shirts and badges.</p>
 
-<p>You can also report incidents by emailing <a href="mailto:team@hrdevfest.org">team@hrdevfest.org</a>. When you make a report, here is what you can expect:</p>
+<p>You can also report incidents by emailing <a href="mailto:team@revolutionva.org">team@revolutionva.org</a>. When you make a report, here is what you can expect:</p>
 <ul>
 <li><strong>Acknowledgment:</strong> Your report will be acknowledged promptly.</li>
 <li><strong>Confidentiality:</strong> All reports will be handled with discretion. Details will only be shared as needed to investigate and resolve the situation.</li>
@@ -55,7 +55,7 @@
 
 <h2>Accessibility</h2>
 
-<p>Hampton Roads DevFest is committed to providing an accessible and inclusive environment for all participants. If you need accommodations to fully participate in the event, please contact us at <a href="mailto:team@hrdevfest.org">team@hrdevfest.org</a> and we will do our best to meet your needs.</p>
+<p>Hampton Roads DevFest is committed to providing an accessible and inclusive environment for all participants. If you need accommodations to fully participate in the event, please contact us at <a href="mailto:team@revolutionva.org">team@revolutionva.org</a> and we will do our best to meet your needs.</p>
 
 <div class="footer">
 <p><small><em>Original source and credit: <a href="https://web.archive.org/web/2012/http://2012.jsconf.us/#/about">JSConf 2012</a> &amp; <a href="https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a><br>
