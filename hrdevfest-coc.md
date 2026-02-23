@@ -25,7 +25,6 @@
 <p>If a participant engages in harassing behavior, the conference organisers may take action including but not limited to:</p>
 <ol>
 <li>A verbal warning and request to stop the behavior</li>
-<li>A written warning documenting the incident</li>
 <li>Temporary removal from the event space</li>
 <li>Permanent expulsion from the conference with no refund</li>
 <li>Referral to venue security or local law enforcement</li>
