@@ -58,7 +58,7 @@
 <p>Hampton Roads DevFest is committed to providing an accessible and inclusive environment for all participants. If you need accommodations to fully participate in the event, please contact us at <a href="mailto:team@revolutionva.org">team@revolutionva.org</a> and we will do our best to meet your needs.</p>
 
 <div class="footer">
-<p><small><em>Original source and credit: <a href="https://web.archive.org/web/2012/http://2012.jsconf.us/#/about">JSConf 2012</a> &amp; <a href="https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a><br>
+<p><small><em>Original source and credit: JSConf 2012 &amp; <a href="https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a><br>
 
 Please help by translating or improving: <a href="https://github.com/leftlogic/confcodeofconduct.com">github.com/leftlogic/confcodeofconduct.com</a><br>
 
