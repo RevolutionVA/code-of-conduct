@@ -43,7 +43,7 @@
 <li><strong>Outcome:</strong> You will be informed of the resolution. Actions taken will follow the consequences outlined above.</li>
 </ul>
 
-<p>Hampton Roads DevFest staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p>
+<p>Hampton Roads DevFest staff will be happy to help participants contact venue/event staff or local law enforcement, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p>
 
 <h2>Photography and Recording</h2>
 
