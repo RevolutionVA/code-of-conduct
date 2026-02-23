@@ -10,7 +10,7 @@
 
 <h2>The Quick Version</h2>
 
-<p>Hampton Roads DevFest is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), socioeconomic status, immigration or citizenship status, pregnancy, veteran status, neurodiversity, or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media (including Twitter/X, Discord, Slack), and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <em>without a refund</em> at the discretion of the conference organisers.</p>
+<p>Hampton Roads DevFest is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), socioeconomic status, immigration or citizenship status, pregnancy, veteran status, neurodiversity, or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, social media (including Twitter/X, Discord, Slack), and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <em>without a refund</em> at the discretion of the conference organizers.</p>
 
 <h2>The Less Quick Version</h2>
 
@@ -22,14 +22,14 @@
 
 <h2>Consequences</h2>
 
-<p>If a participant engages in harassing behavior, the conference organisers may take action including but not limited to:</p>
+<p>If a participant engages in harassing behavior, the conference organizers may take action including but not limited to:</p>
 <ol>
 <li>A verbal warning and request to stop the behavior</li>
 <li>Temporary removal from the event space</li>
 <li>Permanent expulsion from the conference with no refund</li>
 <li>Referral to venue security or local law enforcement</li>
 </ol>
-<p>The severity of the response will be determined by the organisers based on the nature and context of the behavior.</p>
+<p>The severity of the response will be determined by the organizers based on the nature and context of the behavior.</p>
 
 <h2>Reporting Process</h2>
 
