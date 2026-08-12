@@ -85,7 +85,9 @@
 <p>We want our meetups to be accessible and inclusive. Contact <a href="mailto:team@revolutionva.org">team@revolutionva.org</a> about accommodations or barriers to participation, and we will make a good-faith effort to help.</p>
 
 <div class="footer">
-<p><small><em>Adapted from the RevolutionVA Hampton Roads DevFest Code of Conduct, originally based on the JSConf conference code of conduct and The Ada Initiative's anti-harassment policy.</em></small></p>
+<p><small><em>Adapted from the RevolutionVA Hampton Roads DevFest Code of Conduct. Original source and credit: JSConf 2012 and <a href="https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a>.</em></small></p>
+
+<p><small><em>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.</em></small></p>
 </div>
 </body>
 </html>
